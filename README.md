@@ -7,6 +7,7 @@
 ##### :newspaper: Know more ...
 * :globe_with_meridians: I blog at [https://ravichaganti.com](https://ravichaganti.com/blog)
 * :blue_book: I am the founder and editor of [PowerShell Magazine](https://powershellmagazine.com)
+* :thumbsup: Knows PowerShell, Python, and learning Go now!
 * :bulb:  Innovator with [19 granted](https://patents.justia.com/search?q=Ravikanth+Chaganti) and many more pending patents
 * :books: Published [Author](https://www.amazon.com/Ravikanth-Chaganti/e/B00IODG4L4/ref=dp_byline_cont_pop_ebooks_1)
 * :tada:  10+ year [Microsoft MVP Awardee](https://mvp.microsoft.com/en-us/PublicProfile/4029023?fullName=Ravikanth%20C)
