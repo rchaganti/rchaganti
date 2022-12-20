@@ -1,6 +1,6 @@
 #### Howdy! Ravikanth Here. :pray:
 -----
-:office: I am a [Distinguished Member Technical Staff](https://www.linkedin.com/in/rchaganti/) at Dell Technologies and my day job involves architecting multi-cloud solutions. I work on building management and orchestration solutions for on-prem and hybrid infrastructures. Infrastructure / infrastructure management is my core strength with deep focus on Server hardware, virtualization, and Kubernetes.
+:office: I am a [Distinguished Engineer](https://www.linkedin.com/in/rchaganti/) at Dell Technologies and my day job involves architecting multi-cloud solutions. I work on building management and orchestration solutions for on-prem and hybrid infrastructures. Infrastructure / infrastructure management is my core strength with deep focus on Server hardware, virtualization, and Kubernetes.
 
 ##### :newspaper: Know more ...
 * :globe_with_meridians: blog at [https://ravichaganti.com](https://ravichaganti.com/blog)
