@@ -6,7 +6,7 @@
 * :globe_with_meridians: blog at [https://ravichaganti.com](https://ravichaganti.com/blog)
 * :blue_book: founder and editor of [PowerShell Magazine](https://powershellmagazine.com)
 * :thumbsup: Automation fanatic and know PowerShell, DSC, Python, and Go Language!
-* :bulb:  Innovator with [98 granted](https://idiyas.com/inventor/badge?id=62ffae22e837f6b92cdda8b5&name=ravikanth+chaganti) and many more pending patents
+* :bulb:  Innovator with [100 granted](https://idiyas.com/inventor/badge?id=62ffae22e837f6b92cdda8b5&name=ravikanth+chaganti) and many more pending patents
 * :books: Published [Author](https://ravichaganti.com/books/)
 * :tada:  14+ year [Microsoft MVP Awardee](https://mvp.microsoft.com/en-us/PublicProfile/4029023?fullName=Ravikanth%20C)
 * :microphone: [User Group Leader, Organizer, and Speaker](https://ravichaganti.com/categories/presentations/) at local and international events
