@@ -4,7 +4,7 @@
 
 ##### :newspaper: Know more ...
 * :globe_with_meridians: blog at [https://ravichaganti.com](https://ravichaganti.com/blog)
-* :blue_book: founder and editor of [PowerShell Magazine](https://powershellmagazine.com)
+* :blue_book: founder and editor of [PowerShell Magazine](https://powershellmagazine.com) and [Cloud Native Central](https://cloudnativecentral.com)
 * :thumbsup: Automation fanatic and know PowerShell, DSC, Python, and Go Language!
 * :bulb:  Innovator with [100 granted](https://idiyas.com/inventor/badge?id=62ffae22e837f6b92cdda8b5&name=ravikanth+chaganti) and many more pending patents
 * :books: Published [Author](https://ravichaganti.com/books/)
