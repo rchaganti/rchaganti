@@ -5,7 +5,7 @@
 ##### :newspaper: Know more ...
 * :globe_with_meridians: blog at [https://ravichaganti.com](https://ravichaganti.com/blog)
 * :blue_book: founder and editor of [PowerShell Magazine](https://powershellmagazine.com) and [Cloud Native Central](https://cloudnativecentral.com)
-* :thumbsup: Automation fanatic and know PowerShell, DSC, Python, and Go Language!
+* :thumbsup: Automation fanatic and know PowerShell, DSC, Python, and Go, and Rust languages!
 * :bulb:  Innovator with [103 granted](https://idiyas.com/inventor/badge?id=62ffae22e837f6b92cdda8b5&name=ravikanth+chaganti) and many pending applications
 * :books: Published [Author](https://ravichaganti.com/books/)
 * :tada:  15+ year [Microsoft MVP Awardee](https://mvp.microsoft.com/en-us/PublicProfile/4029023?fullName=Ravikanth%20C)
