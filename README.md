@@ -11,4 +11,4 @@
 * :tada:  15+ year [Microsoft MVP Awardee](https://mvp.microsoft.com/en-us/PublicProfile/4029023?fullName=Ravikanth%20C)
 * :microphone: [User Group Leader, Organizer, and Speaker](https://ravichaganti.com/categories/presentations/) at local and international events
 
-You can follow me on Twitter :bird: [@ravikanth](https://twitter.com/ravikanth) and ask me anything about Kubernetes, containers, AI, PowerShell, Virtualization, Windows, Azure, Automation, DevOps, Systems Management, and Server Hardware.
+You can follow me on Twitter :bird: [@ravikanth](https://twitter.com/ravikanth) and ask me anything about Kubernetes, containers, AI, PowerShell, Virtualization, Windows, Azure, infrastructure automation, DevOps, systems management, and server hardware.
